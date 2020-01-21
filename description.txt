@@ -1,0 +1,23 @@
+The project has the following components:
+
+A Service(api.service.ts)
+	Containes a function for retrieving the data from animeData.json file.
+
+An Interface(anime.ts)
+	An interface for different attributes: name, img-url, description.
+
+4 Components
+1) Anime: Has the main logic for projecting data.
+	Calls the api service to retrieve the data and store it in an array of type Anime.
+
+	Projected in anime.component.html file. 
+2) Header
+3) Footer
+4) App-Component: Contains a tag for abouve 3 components
+
+A data.json file in src/assets/data/ folder
+
+A folder containing images of different animes in src/assets/images/ folder
+
+
+##Feel Free to use it anyway you like :D

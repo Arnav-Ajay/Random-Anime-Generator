@@ -1,0 +1,26 @@
+[
+    {
+      "id": "1",
+      "imageUrl": "../assets/opm.jpg",
+      "name": "One Punch Man",
+      "description": "The seemingly ordinary and unimpressive Saitama has a rather unique hobby: being a hero. In order to pursue his childhood dream, he trained relentlessly for three years—and lost all of his hair in the process. Now, Saitama is incredibly powerful, so much so that no enemy is able to defeat him in battle. In fact, all it takes to defeat evildoers with just one punch has led to an unexpected problem—he is no longer able to enjoy the thrill of battling and has become quite bored. This all changes with the arrival of Genos, a 19-year-old cyborg, who wishes to be Saitama's disciple after seeing what he is capable of. Genos proposes that the two join the Hero Association in order to become certified heroes that will be recognized for their positive contributions to society, and Saitama, shocked that no one knows who he is, quickly agrees. And thus begins the story of One Punch Man, an action-comedy that follows an eccentric individual who longs to fight strong enemies that can hopefully give him the excitement he once felt and just maybe, he'll become popular in the process."
+    },
+    {
+      "id": "2",
+      "imageUrl": "../assets/AoT.jpeg",
+      "name": "Attack On Titans",
+      "description": "Attack on Titan is set in a world where humanity lives inside cities surrounded by enormous Walls that protect them from Titans, gigantic humanoid creatures who devour humans seemingly without reason. The story centers around Eren Jaeger, his adoptive sister Mikasa Ackermann, and their childhood friend Armin Arlelt, whose lives are changed forever after the appearance of a Colossal Titan which brings about the destruction of their home town and the death of their mother. Vowing revenge and to reclaim the world from the Titans, Eren, Mikasa, and Armin join the Scout Regiment, an elite group of soldiers who fight Titans outside the Walls."
+    },
+    {
+      "id": "3",
+      "imageUrl": "../assets/myhero.jpeg",
+      "name": "My Hero Academy",
+      "description": "In a world where people with superpowers (known as Quirks (個性, Kosei)) are the norm, Izuku Midoriya has dreams of one day becoming a Hero, despite being bullied by his classmates for not having a Quirk. ... Izuku and his new friends try to balance their Hero training with ordinary school duties."
+    },
+    {
+      "id": "4",
+      "imageUrl": "../assets/rezero.jpg",
+      "name": "Re: Zero",
+      "description": "The series tells a story of Natsuki Subaru, a normal young man that lives his normal life in the modern Japan. However, one day, he is summoned to another world. Without knowing the person that summoned him, or the reason for being summoned in the new world, he soon befriends a silver-haired-half-elf girl, Emilia."
+    }
+  ]
