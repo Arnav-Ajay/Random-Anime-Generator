@@ -31,7 +31,7 @@
    "Sci-Fi",
    "Supernatural"
   ],
-  "imageUrl": "../assets/images/GakusenToshiAsterisk.jpg",
+  "imageUrl": "./assets/images/GakusenToshiAsterisk.jpg",
   "start_date": "Apr 2, 2016, 22:30 (JST)",
   "studio": "A-1 Pictures",
   "title": "Gakusen Toshi Asterisk 2nd Season"
@@ -45,7 +45,7 @@
    "Shounen",
    "Super Power"
   ],
-  "imageUrl": "../assets/images/myhero.jpeg",
+  "imageUrl": "./assets/images/myhero.jpeg",
   "start_date": "Apr 3, 2016, 17:00 (JST)",
   "studio": "Bones",
   "title": "Boku no Hero Academia"
@@ -55,7 +55,7 @@
   "genres": [
    "Sci-Fi"
   ],
-  "imageUrl": "../assets/images/Kiznaiver.jpg",
+  "imageUrl": "./assets/images/Kiznaiver.jpg",
   "start_date": "Mar 27, 2016, 23:30 (JST)",
   "studio": "Trigger",
   "title": "Kiznaiver"
@@ -66,7 +66,7 @@
    "Drama",
    "Mystery"
   ],
-  "imageUrl": "../assets/images/Mayoiga.png",
+  "imageUrl": "./assets/images/Mayoiga.png",
   "start_date": "Apr 1, 2016, 22:30 (JST)",
   "studio": "Diomedea",
   "title": "Mayoiga"
@@ -77,7 +77,7 @@
    "Military",
    "Seinen"
   ],
-  "imageUrl": "../assets/images/JokerGame.jpg",
+  "imageUrl": "./assets/images/JokerGame.jpg",
   "start_date": "Apr 5, 2016, 23:00 (JST)",
   "studio": "Production I.G",
   "title": "Joker Game"
@@ -90,7 +90,7 @@
    "Shounen",
    "Supernatural"
   ],
-  "imageUrl": "../assets/images/SouseinoOnmyouji.jpg",
+  "imageUrl": "./assets/images/SouseinoOnmyouji.jpg",
   "start_date": "Apr 6, 2016, 18:25 (JST)",
   "studio": "Studio Pierrot",
   "title": "Sousei no Onmyouji"
@@ -102,7 +102,7 @@
    "School",
    "Seinen"
   ],
-  "imageUrl": "../assets/images/Sakamotodesuga?.jpg",
+  "imageUrl": "./assets/images/Sakamotodesuga?.jpg",
   "start_date": "Apr 8, 2016, 02:28 (JST)",
   "studio": "Studio Deen",
   "title": "Sakamoto desu ga?"
@@ -115,7 +115,7 @@
    "Mystery",
    "Police"
   ],
-  "imageUrl": "../assets/images/GyakutenSaiban:.jpg",
+  "imageUrl": "./assets/images/GyakutenSaiban:.jpg",
   "start_date": "Apr 2, 2016, 17:30 (JST)",
   "studio": "A-1 Pictures",
   "title": "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari!"
@@ -129,7 +129,7 @@
    "Magic",
    "Shounen"
   ],
-  "imageUrl": "../assets/images/MagiSinbadnoBouken.jpeg",
+  "imageUrl": "./assets/images/MagiSinbadnoBouken.jpeg",
   "start_date": "Apr 16, 2016, 02:25 (JST)",
   "studio": "Lay-duce",
   "title": "Magi: Sinbad no Bouken (TV)"
@@ -140,7 +140,7 @@
    "Drama",
    "Fantasy"
   ],
-  "imageUrl": "../assets/images/rezero.jpg",
+  "imageUrl": "./assets/images/rezero.jpg",
   "start_date": "Apr 3, 2016, 01:05 (JST)",
   "studio": "White Fox",
   "title": "Re:Zero kara Hajimeru Isekai Seikatsu"
@@ -152,7 +152,7 @@
    "Adventure",
    "Shounen"
   ],
-  "imageUrl": "../assets/images/JoJo.jpeg",
+  "imageUrl": "./assets/images/JoJo.jpeg",
   "start_date": "Apr 2, 2016, 00:30 (JST)",
   "studio": "David Production",
   "title": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai"
@@ -165,7 +165,7 @@
    "Slice of Life",
    "Supernatural"
   ],
-  "imageUrl": "../assets/images/FlyingWitch.jpg",
+  "imageUrl": "./assets/images/FlyingWitch.jpg",
   "start_date": "Apr 10, 2016, 02:25 (JST)",
   "studio": "J.C.Staff",
   "title": "Flying Witch"
@@ -177,7 +177,7 @@
    "Shounen",
    "Super Power"
   ],
-  "imageUrl": "../assets/images/BigOrder.jpg",
+  "imageUrl": "./assets/images/BigOrder.jpg",
   "start_date": "Apr 16, 2016, 01:40 (JST)",
   "studio": "Asread",
   "title": "Big Order (TV)"
@@ -193,7 +193,7 @@
    "School",
    "Sci-Fi"
   ],
-  "imageUrl": "../assets/images/Hundred.jpg",
+  "imageUrl": "./assets/images/Hundred.jpg",
   "start_date": "Apr 5, 2016, 02:05 (JST)",
   "studio": "Production IMS",
   "title": "Hundred"
@@ -205,7 +205,7 @@
    "School",
    "Slice of Life"
   ],
-  "imageUrl": "../assets/images/tanaka.jpg",
+  "imageUrl": "./assets/images/tanaka.jpg",
   "start_date": "Apr 9, 2016, 22:00 (JST)",
   "studio": "Silver Link.",
   "title": "Tanaka-kun wa Itsumo Kedaruge"
@@ -218,7 +218,7 @@
    "Sci-Fi",
    "Space"
   ],
-  "imageUrl": "../assets/images/Terra-Formars-Revenge-Hulu-Header.jpg",
+  "imageUrl": "./assets/images/Terra-Formars-Revenge-Hulu-Header.jpg",
   "start_date": "Apr 2, 2016, 01:05 (JST)",
   "studio": "LIDENFILMS",
   "title": "Terra Formars Revenge"
@@ -229,7 +229,7 @@
    "Adventure",
    "Fantasy"
   ],
-  "imageUrl": "../assets/images/SeisenCerberus.png",
+  "imageUrl": "./assets/images/SeisenCerberus.png",
   "start_date": "Apr 4, 2016, 01:35 (JST)",
   "studio": "Bridge",
   "title": "Seisen Cerberus: Ryuukoku no Fatalits"
@@ -239,7 +239,7 @@
   "genres": [
    "Mecha"
   ],
-  "imageUrl": "../assets/images/Kuromukuro.jpg",
+  "imageUrl": "./assets/images/Kuromukuro.jpg",
   "start_date": "Apr 7, 2016, 22:00 (JST)",
   "studio": "P.A. Works",
   "title": "Kuromukuro"
@@ -253,7 +253,7 @@
    "Shounen",
    "Supernatural"
   ],
-  "imageUrl": "../assets/images/KyoukainoRinne.jpg",
+  "imageUrl": "./assets/images/KyoukainoRinne.jpg",
   "start_date": "Apr 9, 2016, 17:30 (JST)",
   "studio": "Brain's Base",
   "title": "Kyoukai no Rinne (TV) 2nd Season"
@@ -265,7 +265,7 @@
    "School",
    "Slice of Life"
   ],
-  "imageUrl": "../assets/images/AnneHappy.jpg",
+  "imageUrl": "./assets/images/AnneHappy.jpg",
   "start_date": "Apr 7, 2016, 21:30 (JST)",
   "studio": "Silver Link.",
   "title": "Anne Happy"
@@ -277,7 +277,7 @@
    "Shoujo",
    "Slice of Life"
   ],
-  "imageUrl": "../assets/images/ShounenMaid.jpg",
+  "imageUrl": "./assets/images/ShounenMaid.jpg",
   "start_date": "Apr 8, 2016, 01:58 (JST)",
   "studio": "8bit",
   "title": "Shounen Maid"
@@ -287,7 +287,7 @@
   "genres": [
    "-"
   ],
-  "imageUrl": "../assets/images/WagamamaHighSpec.png",
+  "imageUrl": "./assets/images/WagamamaHighSpec.png",
   "start_date": "Apr 12, 2016, 01:10 (JST)",
   "studio": "AXsiZ",
   "title": "Wagamama High Spec"
@@ -298,7 +298,7 @@
    "Seinen",
    "Slice of Life"
   ],
-  "imageUrl": "../assets/images/Bakuon.jpg",
+  "imageUrl": "./assets/images/Bakuon.jpg",
   "start_date": "Apr 5, 2016, 00:00 (JST)",
   "studio": "TMS Entertainment",
   "title": "Bakuon!!"
@@ -308,7 +308,7 @@
   "genres": [
    "School"
   ],
-  "imageUrl": "../assets/images/Haifuri.jpg",
+  "imageUrl": "./assets/images/Haifuri.jpg",
   "start_date": "Apr 10, 2016, 00:00 (JST)",
   "studio": "Production IMS",
   "title": "Haifuri"
@@ -319,7 +319,7 @@
    "Action",
    "Super Power"
   ],
-  "imageUrl": "../assets/images/ConcreteRevolutio.jpg",
+  "imageUrl": "./assets/images/ConcreteRevolutio.jpg",
   "start_date": "Apr 10, 2016, 23:00 (JST)",
   "studio": "Bones",
   "title": "Concrete Revolutio: Choujin Gensou - The Last Song"
@@ -329,7 +329,7 @@
   "genres": [
    "Supernatural"
   ],
-  "imageUrl": "../assets/images/onigiri.jpg",
+  "imageUrl": "./assets/images/onigiri.jpg",
   "start_date": "Apr 7, 2016, 01:00 (JST)",
   "studio": "Pierrot Plus",
   "title": "Onigiri"
@@ -342,7 +342,7 @@
    "Romance",
    "Shoujo"
   ],
-  "imageUrl": "../assets/images/BishoujoSenshi.jpg",
+  "imageUrl": "./assets/images/BishoujoSenshi.jpg",
   "start_date": "Apr 4, 2016, 23:00 (JST)",
   "studio": "Toei Animation",
   "title": "Bishoujo Senshi Sailor Moon Crystal Season III"
@@ -355,7 +355,7 @@
    "Supernatural",
    "Thriller"
   ],
-  "imageUrl": "../assets/images/Kagewani.png",
+  "imageUrl": "./assets/images/Kagewani.png",
   "start_date": "Apr 1, 2016, 23:00 (JST)",
   "studio": "Tomovies",
   "title": "Kagewani: Shou"
@@ -366,7 +366,7 @@
    "School",
    "Space"
   ],
-  "imageUrl": "../assets/images/UchuuPatrolLuluco.jpg",
+  "imageUrl": "./assets/images/UchuuPatrolLuluco.jpg",
   "start_date": "Apr 1, 2016, 22:30 (JST)",
   "studio": "SANZIGEN",
   "title": "Uchuu Patrol Luluco"
@@ -381,7 +381,7 @@
    "Sci-Fi",
    "Space"
   ],
-  "imageUrl": "../assets/images/mobile-suit-gundam-unicorn-re-0096.jpg",
+  "imageUrl": "./assets/images/mobile-suit-gundam-unicorn-re-0096.jpg",
   "start_date": "Apr 3, 2016, 07:00 (JST)",
   "studio": "Sunrise",
   "title": "Mobile Suit Gundam Unicorn RE:0096"
@@ -394,7 +394,7 @@
    "Samurai",
    "Shoujo"
   ],
-  "imageUrl": "../assets/images/HakuoukiOtogisoushi.jpg",
+  "imageUrl": "./assets/images/HakuoukiOtogisoushi.jpg",
   "start_date": "Apr 5, 2016, 21:55 (JST)",
   "studio": "DLE",
   "title": "Hakuouki: Otogisoushi"
@@ -408,7 +408,7 @@
    "Shounen",
    "Sports"
   ],
-  "imageUrl": "../assets/images/BeybladeBurst.jpg",
+  "imageUrl": "./assets/images/BeybladeBurst.jpg",
   "start_date": "Apr 4, 2016, 17:55 (JST)",
   "studio": "Oriental Light and Magic",
   "title": "Beyblade Burst"
@@ -420,7 +420,7 @@
    "Shounen",
    "Sports"
   ],
-  "imageUrl": "../assets/images/usakame.jpg",
+  "imageUrl": "./assets/images/usakame.jpg",
   "start_date": "Apr 11, 2016",
   "studio": "Millepensee",
   "title": "Usakame"
@@ -433,7 +433,7 @@
    "Shoujo",
    "Slice of Life"
   ],
-  "imageUrl": "../assets/images/AikatsuStars.jpg",
+  "imageUrl": "./assets/images/AikatsuStars.jpg",
   "start_date": "Apr 7, 2016, 18:25 (JST)",
   "studio": "Bandai Namco Pictures",
   "title": "Aikatsu Stars!"
@@ -445,7 +445,7 @@
    "Music",
    "Shounen"
   ],
-  "imageUrl": "../assets/images/TonkatsuDJAgetarou.jpg",
+  "imageUrl": "./assets/images/TonkatsuDJAgetarou.jpg",
   "start_date": "Apr 10, 2016, 22:15 (JST)",
   "studio": "Studio Deen",
   "title": "Tonkatsu DJ Agetarou"
@@ -458,7 +458,7 @@
    "Mystery",
    "Shounen"
   ],
-  "imageUrl": "../assets/images/KaitouJoker.png",
+  "imageUrl": "./assets/images/KaitouJoker.png",
   "start_date": "Apr 4, 2016, 19:00 (JST)",
   "studio": "Shin-Ei Animation",
   "title": "Kaitou Joker 3rd Season"
@@ -468,7 +468,7 @@
   "genres": [
    "Action"
   ],
-  "imageUrl": "../assets/images/RagnastrikeAngels.jpg",
+  "imageUrl": "./assets/images/RagnastrikeAngels.jpg",
   "start_date": "Apr 3, 2016, 00:56 (JST)",
   "studio": "Satelight",
   "title": "Ragnastrike Angels"
@@ -481,7 +481,7 @@
    "Game",
    "Shounen"
   ],
-  "imageUrl": "../assets/images/CardfightVanguard.jpg",
+  "imageUrl": "./assets/images/CardfightVanguard.jpg",
   "start_date": "Apr 17, 2016, 10:00 (JST)",
   "title": "Cardfight!! Vanguard G: Stride Gate-hen"
  },
@@ -491,7 +491,7 @@
    "Action",
    "Kids"
   ],
-  "imageUrl": "../assets/images/BattleSpirits.jpg",
+  "imageUrl": "./assets/images/BattleSpirits.jpg",
   "start_date": "Apr 6, 2016, 17:55 (JST)",
   "studio": "Bandai Namco Pictures",
   "title": "Battle Spirits: Double Drive"
@@ -504,7 +504,7 @@
    "Comedy",
    "Shounen"
   ],
-  "imageUrl": "../assets/images/DuelMasters.jpeg",
+  "imageUrl": "./assets/images/DuelMasters.jpeg",
   "start_date": "Apr 3, 2016, 08:30 (JST)",
   "title": "Duel Masters VSRF"
  },
@@ -513,7 +513,7 @@
   "genres": [
    "Game"
   ],
-  "imageUrl": "../assets/images/FutureCard.jpg",
+  "imageUrl": "./assets/images/FutureCard.jpg",
   "start_date": "Apr 2, 2016, 08:00 (JST)",
   "studio": "Oriental Light and Magic",
   "title": "Future Card Buddyfight DDD"
@@ -524,7 +524,7 @@
    "Comedy",
    "Slice of Life"
   ],
-  "imageUrl": "../assets/images/ShounenAshibe.jpg",
+  "imageUrl": "./assets/images/ShounenAshibe.jpg",
   "start_date": "Apr 5, 2016, 18:45 (JST)",
   "studio": "Bridge",
   "title": "Shounen Ashibe: Go! Go! Goma-chan"
@@ -534,7 +534,7 @@
   "genres": [
    "Comedy"
   ],
-  "imageUrl": "../assets/images/Bonobono.jpg",
+  "imageUrl": "./assets/images/Bonobono.jpg",
   "start_date": "Apr 2, 2016, 04:52 (JST)",
   "studio": "Eiken",
   "title": "Bonobono (2016)"
@@ -545,7 +545,7 @@
    "Comedy",
    "Music"
   ],
-  "imageUrl": "../assets/images/aggretsuko-featured.jpg",
+  "imageUrl": "./assets/images/aggretsuko-featured.jpg",
   "start_date": "Apr 2, 2016",
   "studio": "Fanworks",
   "title": "Aggressive Retsuko"
@@ -555,7 +555,7 @@
   "genres": [
    "Comedy"
   ],
-  "imageUrl": "../assets/images/AsadayKaishain.jpg",
+  "imageUrl": "./assets/images/AsadayKaishain.jpg",
   "start_date": "Apr 4, 2016",
   "studio": "DLE",
   "title": "Asa da yo! Kaishain"
@@ -567,7 +567,7 @@
    "Dark Fantasy",
    "Doomsday"
   ],
-  "imageUrl": "../assets/images/AoT.jpeg",
+  "imageUrl": "./assets/images/AoT.jpeg",
   "start_date": "Apr 6, 2013",
   "studio": "Wit Studio",
   "title": "Shingeki No Kyojin"
@@ -579,7 +579,7 @@
    "Comedy",
    "Superhero"
   ],
-  "imageUrl": "../assets/images/opm.jpg",
+  "imageUrl": "./assets/images/opm.jpg",
   "start_date": "Oct 4, 2015",
   "studio": "Madhouse",
   "title": "One Punch Man"
@@ -590,7 +590,7 @@
   "Action",
   "Dark Fantasy"
  ],
- "imageUrl": "../assets/images/Akame-Ga-Kill.jpg",
+ "imageUrl": "./assets/images/Akame-Ga-Kill.jpg",
  "start_date": "July 7, 2014",
  "studio": "White Fox, C-Station",
  "title": "Akame Ga Kill"
@@ -601,7 +601,7 @@
  "Adventure",
  "Fantasy"
 ],
-"imageUrl": "../assets/images/blackclover.jpg",
+"imageUrl": "./assets/images/blackclover.jpg",
 "start_date": "Oct 3, 2017",
 "studio": "Xebec",
 "title": "Black Clover"
@@ -613,7 +613,7 @@
  "Supernatural",
  "Superhero"
 ],
-"imageUrl": "../assets/images/bleach.jpg",
+"imageUrl": "./assets/images/bleach.jpg",
 "start_date": "Oct 5, 2004",
 "studio": "Pierrot",
 "title": "Bleach"
@@ -625,7 +625,7 @@
  "Mecha",
  "Military"
 ],
-"imageUrl": "../assets/images/Code-Geass.jpg",
+"imageUrl": "./assets/images/Code-Geass.jpg",
 "start_date": "Oct 5, 2006",
 "studio": "Sunrise",
 "title": "Code Geass"
@@ -636,7 +636,7 @@
  "Space Western",
  "Neo-Noir"
 ],
-"imageUrl": "../assets/images/cowboybebop.jpeg",
+"imageUrl": "./assets/images/cowboybebop.jpeg",
 "start_date": "April 3, 1998",
 "studio": "Sunrise",
 "title": "Cowboy Bebop"
@@ -648,7 +648,7 @@
  "Psychological Thriller",
  "Supernatural"
 ],
-"imageUrl": "../assets/images/deathnote.jpg",
+"imageUrl": "./assets/images/deathnote.jpg",
 "start_date": "Oct 3, 2006",
 "studio": "Madhouse",
 "title": "Death Note"
@@ -658,7 +658,7 @@
 "genres": [
  "Psychological"
 ],
-"imageUrl": "../assets/images/deathparade.jpg",
+"imageUrl": "./assets/images/deathparade.jpg",
 "start_date": "Jan 9, 2015",
 "studio": "Madhouse",
 "title": "Death Parade"
@@ -669,7 +669,7 @@
  "Mystery",
  "Thriller"
 ],
-"imageUrl": "../assets/images/detectiveconan.jpg",
+"imageUrl": "./assets/images/detectiveconan.jpg",
 "start_date": "Jan 8, 1996",
 "studio": "TMS Entertainment",
 "title": "Detective Conan"
@@ -681,7 +681,7 @@
  "Fantasy",
  "Martial Arts"
 ],
-"imageUrl": "../assets/images/dragon-ball-super.jpeg",
+"imageUrl": "./assets/images/dragon-ball-super.jpeg",
 "start_date": "July 5, 2015",
 "studio": "Toei Animation",
 "title": "Dragon Ball Super"
@@ -693,7 +693,7 @@
  "Science Fiction",
  "Thriller"
 ],
-"imageUrl": "../assets/images/erazed.jpg",
+"imageUrl": "./assets/images/erazed.jpg",
 "start_date": "Dec 15, 2017",
 "studio": "A-1 Pictures",
 "title": "Boku Dake Ga Inai Machi"
@@ -705,7 +705,7 @@
  "Dark Fantasy",
  "Tragedy"
 ],
-"imageUrl": "../assets/images/fate0.jpg",
+"imageUrl": "./assets/images/fate0.jpg",
 "start_date": "Oct 1, 2011",
 "studio": "Ufotable",
 "title": "Fate Zero"
@@ -717,7 +717,7 @@
  "Dark Fantasy",
  "Science Fiction"
 ],
-"imageUrl": "../assets/images/fullmetal.jpg",
+"imageUrl": "./assets/images/fullmetal.jpg",
 "start_date": "April 5, 2009",
 "studio": "Bones",
 "title": "Fullmetal Alchemist Brotherhood"
@@ -729,7 +729,7 @@
  "Comedy",
  "Science Fiction"
 ],
-"imageUrl": "../assets/images/gintama.jpeg",
+"imageUrl": "./assets/images/gintama.jpeg",
 "start_date": "April 4, 2006",
 "studio": "Sunrise",
 "title": "Gintama"
@@ -741,7 +741,7 @@
  "Fantasy",
  "Martial Arts"
 ],
-"imageUrl": "../assets/images/HxH.jpg",
+"imageUrl": "./assets/images/HxH.jpg",
 "start_date": "Oct 2, 2011",
 "studio": "Madhouse",
 "title": "Hunter x Hunter"
@@ -753,7 +753,7 @@
  "Science Fiction",
  "Superhero"
 ],
-"imageUrl": "../assets/images/inuyashiki.jpeg",
+"imageUrl": "./assets/images/inuyashiki.jpeg",
 "start_date": "Oct 12, 2017",
 "studio": "MAPPA",
 "title": "Inuyashiki"
@@ -765,7 +765,7 @@
  "Dark Fantasy",
  "Martial Arts"
 ],
-"imageUrl": "../assets/images/kametsu.png",
+"imageUrl": "./assets/images/kametsu.png",
 "start_date": "Oct 13, 2019",
 "studio": "Ufotable",
 "title": "Kimetsu No Yaiba"
@@ -777,7 +777,7 @@
  "Fantasy",
  "Martial Arts"
 ],
-"imageUrl": "../assets/images/Naruto-Shippuden.jpg",
+"imageUrl": "./assets/images/Naruto-Shippuden.jpg",
 "start_date": "Feb 15, 2007",
 "studio": "Pierrot",
 "title": "Naruto Shippuden"
@@ -788,7 +788,7 @@
  "Adventure",
  "Fantasy"
 ],
-"imageUrl": "../assets/images/One-Piece.jpg",
+"imageUrl": "./assets/images/One-Piece.jpg",
 "start_date": "Oct 20, 1999",
 "studio": "Toei Animation",
 "title": "One Piece"
@@ -800,7 +800,7 @@
  "Horror Thriller",
  "Science Fiction"
 ],
-"imageUrl": "../assets/images/parasyte.jpg",
+"imageUrl": "./assets/images/parasyte.jpg",
 "start_date": "Oct 9, 2014",
 "studio": "Madhouse",
 "title": "Parasyte The Maxim"
@@ -812,7 +812,7 @@
  "Fantasy",
  "Mystery"
 ],
-"imageUrl": "../assets/images/Rokka-no-Yuusha-Season-2.jpg",
+"imageUrl": "./assets/images/Rokka-no-Yuusha-Season-2.jpg",
 "start_date": "July 5, 2015",
 "studio": "Passione",
 "title": "Rokka No Yuusha"
@@ -824,7 +824,7 @@
  "Comedy",
  "Martial Arts"
 ],
-"imageUrl": "../assets/images/samuraichamploo.jpg",
+"imageUrl": "./assets/images/samuraichamploo.jpg",
 "start_date": "May 14, 2005",
 "studio": "Manglobe",
 "title": "Samurai Champloo"
@@ -836,7 +836,7 @@
  "Comedy",
  "Slice of Life"
 ],
-"imageUrl": "../assets/images/shokugekinosouma.jpg",
+"imageUrl": "./assets/images/shokugekinosouma.jpg",
 "start_date": "April 3, 2015",
 "studio": "J.C. Staff",
 "title": "Shokugeki No Soma"
@@ -847,7 +847,7 @@
  "Science Fiction",
  "Psychological Thriller"
 ],
-"imageUrl": "../assets/images/SteinsGate-0.png",
+"imageUrl": "./assets/images/SteinsGate-0.png",
 "start_date": "April 6, 2011",
 "studio": "White Fox",
 "title": "Stein;s Gate"
@@ -859,7 +859,7 @@
  "Horror",
  "Thriller"
 ],
-"imageUrl": "../assets/images/tokyoghoul.jpg",
+"imageUrl": "./assets/images/tokyoghoul.jpg",
 "start_date": "July 3, 2014",
 "studio": "Pierrot",
 "title": "Tokyo Ghoul"
@@ -870,7 +870,7 @@
  "Adventure",
  "Historical Fiction"
 ],
-"imageUrl": "../assets/images/vinlandsaga_saga.jpg",
+"imageUrl": "./assets/images/vinlandsaga_saga.jpg",
 "start_date": "July 7, 2019",
 "studio": "Wit Studio",
 "title": "Vinland Saga"
@@ -881,7 +881,7 @@
  "Psychological",
  "Thriller"
 ],
-"imageUrl": "../assets/images/zankyou-no-terror.jpg",
+"imageUrl": "./assets/images/zankyou-no-terror.jpg",
 "start_date": "July 10, 2014",
 "studio": "MAPPA",
 "title": "Zankyou No Terror"
